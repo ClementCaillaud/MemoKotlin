@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoKotlin</string>
+    <string name="hint_input">Nouveau mémo</string>
+    <string name="btn_ajouter">Ajouter</string>
+</resources>
